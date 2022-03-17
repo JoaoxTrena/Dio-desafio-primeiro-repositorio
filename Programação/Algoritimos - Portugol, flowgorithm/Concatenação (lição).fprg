@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="jotin"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-30 12:45:14 "/>
+        <attribute name="created" value="am90aW47REVTS1RPUC1FTkkxNFRDOzIwMjItMDEtMjk7IjExOjE2OjE4ICI7Mjc5NA=="/>
+        <attribute name="edited" value="am90aW47REVTS1RPUC1FTkkxNFRDOzIwMjItMDEtMzA7IjEyOjQ1OjE0ICI7NzsyODk5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;Digite seu nome&quot;" newline="True"/>
+            <input variable="nome"/>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <output expression="&quot;Digite sua notas&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1+nota2+nota3+nota4)/4"/>
+            <output expression="&quot;Seu nome &#233;: &quot; &amp; nome &amp; &quot; e sua media foi de: &quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,40 @@
+# Browser, sites, aplicativos e webserver
+
+##       Browser
+
+- Usado para interpretar uma linguagem de programação(LP) e transformar em algo compreensível para o humano. 
+
+- Sabe identificar várias LP, linguagens de marcação e conteúdo multimídia
+- Hoje em dia os browsers conseguem mais que isso: plug-ins ou add-ons ajudam na navegação
+- Cache e cookies
+
+##    Página estática x Página dinâmica
+
+Páginas estáticas são páginas que não possuem muita interação com o site, eram bem comuns antigamente. Já as páginas dinâmicas são todas os sites que possuem uma vasta interação, ou seja, pode-se interagir em vários lugares, de maneiras diferentes. São a maioria dos sites de hoje em dia. Os mais famosos são Youtube, Facebook e vários sites de vendas diferentes.
+
+
+
+##       Sites
+
+É uma página na internet com várias finalidades diferentes. Elas podem ser criadas com várias LP diferentes. 
+
+##      Aplicativo
+
+É um software que é executado no navegador. Os aplicativos e sites já quase não possuem diferença, visto que o primeiro já está em declínio. A diferença terminológica entre programa/software e aplicativo esta diminuindo.
+
+##      E-commerce
+
+Comércio eletrônico. Sites de compra e venda com sistemas de pagamento, visto que o sistema de pagamento pode ser exterior ao site, alguns exemplos de aplicativos de pagamento: PicPay, PayPal, Mercado Pago, PagSeguro, Boleto, Pix
+
+##    Web-server
+
+É onde fica armazenado as informações e dados, sem ela não é possível ter sites. Existem dois tipos de web-server, estático e dinâmico: 
+
+- Estático: São servidores físicos, onde são armazenados arquivos, softwares e banco de dados. Geralmente são armazenados em grandes salas, em formatos de armários.
+- Dinâmico: São servidores que possuem arquivos, aplicações e banco de dados todos misturados.
+  - Precisa estar hospedado em um servidor para poder ser acessado.
+  - Os dados de um site precisam estar em um servidor, assim como um banco de dados.
+
+##    Web-service
+
+Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis (Correios, Governo)

@@ -1,0 +1,68 @@
+# Linguagens de programação, marcação e termos
+
+##    Principais linguagens
+
+- HTML (marcação)
+- CSS (marcação)
+- JavaScript (jQuery, AJAX, diversas libs)
+- PHP
+- .NET
+- ASP
+- Java
+- Ruby (On Rails)
+- Python
+- Perl
+- C/C++/C#
+
+##    Termos comuns
+
+- 404
+- Algoritmo
+- ALT
+- API
+- Aplicação
+- Back-end
+- Biblioteca/dll
+- Bootstrap
+- Breakpoints
+- Browser/navegador
+- Bug
+- Cache
+- Código
+- Controle de versão
+- Cookies
+- Debug
+- Deploy
+- Design adaptativo/responsivo
+- DNS
+- Documentação
+- Domínio
+- DPS
+- Editor de texto
+- Estrutura de dados
+- Favicon
+- Fontes
+- Framework
+- Front-end
+- FTP
+- Full-stack
+- Github/SVN/CV
+- HTTP (S)
+- IP
+- Linguagem
+- Meta tags
+- Método ágil
+- Mobile
+- MVC
+- MVP
+- MySQL
+- Pixel
+- Resolução
+- Servidor
+- Sistema operacional/SO
+- Solução
+- SSL
+- UI
+- UX
+- Versão
+- WYSIWYG: "What you see is what you get"

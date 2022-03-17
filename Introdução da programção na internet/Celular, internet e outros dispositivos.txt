@@ -1,0 +1,68 @@
+# Celular, internet e outros dispositivos
+
+##    SMS
+
+- As operadoras não gastam nada para realizar os SMS entre celulares. 
+
+- Os celulares ficam constantemente trocando pacotes com a torre de comunicação da operadora. O SMS entra de carona nessa troca dados entre os dispositivos.
+
+##    MMS 
+
+Transmissão de mensagens de multimídia, ou seja, vídeos, áudios, imagens, por meio de uma conexão primitiva
+
+##    Conexões móveis 
+
+- 1G: (analógica) 10Kpbs.
+- 2G: (digital) (GSM: Global System for Mobile Communication) 97Kpbs.
+- 2,5G: GPRS (General Packet Radio Service) 32-80Kbps - dados + voz.
+- 2,75: EDGE (Enhaced Data Rates for GSM Evolution) 128-236Kbps
+- 3G: 7Mbps
+- 4G: 22,1Mbps
+- 5G: 10Gbps
+
+##    Wi-Fi
+
+Padrões de Wi-fi criados pela empresa I3E:
+
+- IEEE 802.11: 2,4Ghz, 2Mbps
+- IEEE 802.11a: 5Ghz, 54Mbps
+- IEEE 802.11b: 2,4Ghz 11Mbps (diminui a interferência)
+- IEEE 802.11g: 2,4Ghz, 54Mbps
+- IEEE 802.11n: 2,4Ghz/5Ghz, 150-600Mbps
+
+##    Segurança 
+
+Chaves, ou seja, senhas na rede. As mais usadas:
+
+- WEP: chaves de 64 bits e de 128 bits
+- WPA: chave trocada periodicamente
+- WPA2 (AES) (802.11i)
+  - Mais segurança
+  - Requer mais processamento
+
+##    Bluetooth
+
+Realiza uma conexão ponto-a-ponto, ou seja, não precisa de internet.
+
+| Classe | Potência Máxima | Alcance |
+| ------ | --------------- | ------- |
+| 1      | 100mW           | 100m    |
+| 2      | 2,5mW           | 10m     |
+| 3      | 1mW             | 1m      |
+
+
+
+| Versão  | Taxa de transmissão |
+| ------- | ------------------- |
+| 1.2     | 1 Mbps              |
+| 2.0+DER | 3 Mbps              |
+| 3.0     | 24 Mbps             |
+| 4.0     | 25 Mbps             |
+| 5.0     | 50 Mbps             |
+
+
+
+### Lição
+
+Eu comecei a usar muito mais os aplicativos de comunicação em geral. E senti que a internet diminuiu um pouco de velocidade, por isso mesmo que optei pela rede cabeada por conta da pandemia. Usei muito bluetooth antigamente, mas hoje nem uso mais, só se for alguma situação específica
+

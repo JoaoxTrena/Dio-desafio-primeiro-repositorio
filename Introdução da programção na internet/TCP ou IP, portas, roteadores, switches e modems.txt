@@ -1,0 +1,84 @@
+# TCP/IP e UDP
+
+##    TCP/IP 
+
+São protocolos de comunicação entre computadores em rede, ou seja organizam a comunicação dos computadores na rede, de forma ordenada.
+
+- TCP: Transmission Control Protocol.
+- IP: Internet Protocol.
+
+Ambos os itens acima usam o modelo de camadas:
+
+- São 4 camadas:
+
+  - Física (placa de rede)
+  - Rede (IP)
+  - Forma e transporte(TCP,UDP)
+  - Aplicação(FTP,SMTP,HTTP)
+
+  ## TCP x UDP
+
+- UDP:
+  - Rápida.
+  - Não confiável, pois não há confirmação de recebimento de dados.
+  - Carro do ovo, ou seja, após disparar uma mensagem todos recebem a mesma descontroladamente, e aquele que dispara a mensagem não sabe quem recebeu ou se recebeu.
+  - Muito bom para fazer Livestream.
+- TCP:
+  - Votado á conexão
+  - Handshake, ou seja, há uma comunicação clara do envio e recebimento de dados, quem envia, quem recebe, quando envia e recebe e confirmação do recebimento.
+  - Integridade, ordem dos dados
+  - Aplicativo de mensagens de texto
+
+
+
+
+
+#  Portas
+
+Local onde os dados sairão e chegarão do seu computador. Os computadores vão ler se a requisição é de algum tipo das portas listadas abaixo, ou alguma outra que exista, para assim efetiva-lá 
+
+- Tipos de portas:
+  - 20: FTP
+  - 22: SSH
+  - 25: SMTP
+  - 53: DNS
+  - 80: HTTP
+  - 443: HTTPS
+
+
+
+
+
+# Roteadores, Switches e Modems
+
+##    Modem
+
+São dispositivos hardware que modula e demodula sinais, ou seja, converte dados em formatos que possam ser transmitidos de um computador e entendido por outro computador.
+
+##    Roteador
+
+Dispositivo hardware que distribui internet para um ou mais dispositivos conectados na rede
+
+- Ele pode fazer a comunicação entre redes.
+- Pode ser "burro", ou seja, mandar dados para todos que estão conectados no roteador
+
+##    Switches 
+
+Usado para distribuir internet para apenas o computador ou dispositivo que pede algum dado, não fica distribuindo tudo para todos os outros dispositivos.
+
+
+
+### Lição
+
+Porta do Gmail: 465
+
+Porta do MySQL: 3306
+
+Porta do Apache: 443
+
+
+
+​     
+
+
+

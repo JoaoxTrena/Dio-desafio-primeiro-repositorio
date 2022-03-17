@@ -1,0 +1,34 @@
+***Algoritimo do pinguin***
+
+Pinguin adulto Azul= Pz
+Pinguin filhote azul= Pfz
+
+Pinguin adulto Verde= Pv
+Pinguin filhote verde= Pfv
+
+Pinguin adulto Vermelho= Pm
+Pinguin filhote vermelho= Pfm
+
+  ++Inicio++
+
+Pfz e Pz sobem no iceberg (Nessa ordem)
+Atravessa
+Pz sai do iceberg
+Atravessa
+Pfv sobe no iceberg
+Atravessa
+Pfz sai do iceberg
+Atravessa
+PV sobe no iceberg
+Atravessa
+Pv sai do iceberg
+Atravessa
+Pfm sobe no iceberg
+Atravessa
+Pfv sai do iceberg
+Atravessa
+Pm entra no iceberg
+Atravessa
+Pm e Pfm saem do iceberg (Nessa ordem)
+
+  --Fim--

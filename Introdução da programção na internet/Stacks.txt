@@ -1,0 +1,33 @@
+# Stacks
+
+- São pilhas de tecnologia. 
+- Conjunto de softwares necessários e suficientes para executar um aplicativo/programa
+- Usam LPs
+- Ambientes e ferramentas de interação com o aplicativo/software
+- Capacidade e limitação de performance
+- Pontos fortes e fracos do aplicativo/software
+- Os líderes de projeto que vão vende-lo precisam das informações das equipes de desenvolvimento
+- Os Devs precisam saber as limitações e capacidades das ferramentas e ambientes disponíveis
+- É necessário ter estratégias de negócios para lidar com a concorrência e o que o mercado exige
+
+
+
+##  Divisão das Stacks:Front-end e Back-end.
+
+###    Front-end
+
+- Cuida da interface inicial de sites e aplicativos, estética. 
+- Front-end trabalham com software, aplicativo, web service
+- Interface, UI, UX
+- Usa lógica de programação, HTML, CSS, jQuery,/JA/AJAX, PHP, Bootstrap/outros frameworks
+
+###    Back-end
+
+- Cuida da parte de servidor, banco de dados
+- Usa protocolos de comunicação, MySQL, Oracle, PHP, Java, node.js
+- Podem atuar em algumas pequenas áreas do front-end, com regras de negócio e validações
+
+### Full stack
+
+- Trabalha em todas as camadas, Front-end e Back-end, das tecnologias de desenvolvimento/execução de um app/sw
+

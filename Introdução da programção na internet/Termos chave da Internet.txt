@@ -1,0 +1,42 @@
+# Termos chaves da internet:
+
+- Download/upload - Baixar ou enviar dados na internet.
+- Navegador - Usado pra navegar pelos sites,ex: Chrome, FireFox, Opera...
+- Banda larga - Tipo de conexão com internet.
+- Cache - Dados que sites armazenam no computador para otimizar a velocidade de carregamento dos mesmos na internet.
+- Crack - Piratear softwares com chaves falsas, sem pagar.
+- E-mail - Correio eletrônico,ex: Gmail,outlook.
+- Emoticons/emoji - Carinhas bonitinhas, símbolos, etc...
+- gif/jpg/png - Formatos das imagens na internet. gif e png aceitam transparências, já o jpg deixa as imagens menores, perdendo cor, resolução, informações da imagem.
+- Host - servidor
+- HTML - Linguagem de **MARCAÇÃO **da internet.
+- HTTP - Protocolo utilizado na internet.
+- ícone - Figura que representa algo, marca, etc..
+- Link - É uma ligação, te direciona para sites.
+- URL - Endereço dos sites, publicações, fotos, etc...
+- Login/logon - Acesso a um site com usuário e senha.
+- Logout/logoff - Desconecta do site.
+- MP3 - Formato de música .
+- Multimídia - Execução de vários formatos de mídia ao mesmo tempo.
+- Nick - Seu nome nos sites, jogos, etc...
+- Online - Conectado na internet, sistema.
+- Offline - Desconectado da internet, sistema.
+- Pixel - 1 elemento da imagem.
+- Spam - Envio massivo de mensagens por email ou qualquer chat.
+- Vírus - Softwares maliciosos que causam danos para sua máquina afim de roubar e manipular dados que podem te prejudicar.
+- Backup - Cópia de segurança dos dados.
+- Blog - Sites que servem como diários.
+- (Cyber) bullying - Bullying por meios digitais.
+- 3G/4G/5G - Velocidades da internet móvel.
+- Cookies - Pequenos registros que os sites fazem da nossa atividade, com finalidade principal de outros sites analisarem seus cookies para fornecerem anúncios baseados na sua atividade de navegação.
+- Firewall - Impede acessos indevidos no computador.
+- Hacker - Procuram falhas em softwares e usam isso para beneficio próprio .
+- IP - Número de identificação de cada dispositivo conectado na rede.
+- Keylogger - Tipo de vírus que grava as teclas digitas por você no teclado.
+- Phishing - Envio de mensagens por pessoas maliciosas, geralmente se passando por uma empresa ou pessoa, afim de roubar informações fazendo com que a vítima clique num link suspeito ou algo do gênero.
+- Click Bait - São links, imagens, notícias que apenas com o ato de clicar você pode ter um vírus instalado no seu computador. Ou até te direcionar para algum site de vendas.
+- Fake news - Notícias falsas pra enganar o povão.
+- Podcast - O rádio moderno.
+- Vlog - O blog, mas através de vídeos.
+- Pop-up - Caixas de mensagens e imagens que aparecem durante a navegação em sites.
+- Youtuber - Trabalha no youtube criando vídeos

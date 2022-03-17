@@ -1,0 +1,19 @@
+# Como funciona a internet?
+
+##       Pontos importantes:
+
+- **REDES:** Conexão entre computadores. Cada computador pode no máximo se ligar com outros 4, totalizando uma rede de 5 computadores, mais que isso a rede não funciona.
+
+- **BACKBONE:** Equipamento que se assemelha a uma espinha dorsal que tem a função de gerenciar o tráfego e as conexões da internet. Elas também se interligam a outros backbones e redes.
+
+- **PROVEDOR DE ACESSO:** Empresas telefônicas que fornecem ao usuário final o acesso a esses backbones.
+
+- **PROVEDOR DE SERVIÇO:** São os serviços que os provedores de acesso fornecem, dentre eles: Dial-Up, ADSL(banda larga), Fibra ótica, Rádio, Satélite, Móvel, P2P9(peer to peer) .
+
+  ##    Caminho Inverso
+
+  - O termo **www** é apenas para entendimento do ser humano, entretanto, a máquina não entende. Para a máquina entender e necessário um servidor **DNS**, que transforma esse **www** em um número, chamado de **IP**.
+
+  - Existem também diversas classes de redes com vários propósitos e finalidades diferentes.
+
+  - Um **IP** que programadores devem conhecer é o **127.0.0.1**, pois ele é o endereço do seu computador.
